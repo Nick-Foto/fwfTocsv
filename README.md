@@ -22,6 +22,6 @@ To run program by default arguments :  python mainfwftocsv.py
 To run program by arguments :  python3 mainfwftocsv.py  numberofrecords newfilename  specfilename
 
 dDefault arguments are :
-	numberofrecords : 5000
+	numberofrecords : 10000
 	newfilename     : newfile
 	specfilename    : spec.json
